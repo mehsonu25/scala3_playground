@@ -1,2 +1,2 @@
-@main def hello(): Unit =
-  println("Hello from Scala 3!")
+object Main extends App:
+  Console.out.println("Hello World")

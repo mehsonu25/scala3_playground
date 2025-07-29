@@ -1,7 +1,0 @@
-[debug] > Exec(run, Some(d3e6ff3e-be78-492f-958b-b1b2648d8170), Some(CommandSource(console0)))
-[debug] Evaluating tasks: Compile / run
-[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
-[info] compiling 1 Scala source to C:\Users\mehro\workspace\scala3_playground\target\scala-3.3.1\classes ...
-[info] done compiling
-[success] Total time: 4 s, completed 29 Jul 2025, 1:46:23 am
-[debug] > Exec(shell, None, None)
