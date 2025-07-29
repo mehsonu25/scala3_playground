@@ -35,6 +35,8 @@ metals.sbt
 .idea
 .idea_modules
 /.worksheet/
+.idea/
+.bsp/
 
 # scala-cli
 .scala-build
